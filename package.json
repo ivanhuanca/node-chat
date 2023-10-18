@@ -11,6 +11,8 @@
   "author": "ivan huanca",
   "license": "MIT",
   "dependencies": {
-    "express": "4.18.2"
+    "express": "4.18.2",
+    "morgan": "1.10.0",
+    "socket.io": "4.7.2"
   }
 }
